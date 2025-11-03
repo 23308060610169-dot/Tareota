@@ -1,84 +1,55 @@
-# 🎵 Poem – "Fragments" (Sección compleja: ~3:40–4:30)
+# 🎵 Poem – "Fragments" (Sección rítmica y emocional final)
 
-## 🧩 Descripción general
-Esta sección (~3:40–4:30) es donde la canción entra en una textura **polirrítmica**:
-- La **guitarra** toca frases en **7/8** (y breves transiciones en 5/8).
-- La **batería** mantiene un **pulso base en 4/4**, creando tensión rítmica.
-- El **bajo** sigue la guitarra, con algunas **anticipaciones** (“pushes”).
-- La **voz** entra *off-beat* (“Fighting with your god…”) y rompe la simetría.
+## 🧭 Estructura precisa (3:48 – 4:45)
 
----
-
-## 🕐 Línea de tiempo simplificada
-
-| Tiempo (aprox) | Compás / Patrón | Instrumento principal | Detalles |
-|-----------------|-----------------|------------------------|-----------|
-| 3:40–3:48 | 7/8 repetido | Guitarra (riff 1) | Palm mutes y frase rítmica desplazada respecto al 4/4 de la batería |
-| 3:48–3:56 | 7/8 → 5/8 | Guitarra + bajo | Frase corta antes del siguiente ciclo |
-| 3:56–4:04 | 7/8 | Batería | Acentos cruzados; hi-hat marca subdivisiones en 4/4 |
-| 4:04–4:12 | 7/8 | Voz entra (“Fighting with your god…”) | Entrada *off-beat*, entre el 2° y 3° pulso del compás |
-| 4:12–4:20 | 7/8 → 4/4 | Bajo y batería se alinean | Cae en 4/4 justo antes de la resolución |
-| 4:20–4:30 | 4/4 → pausa | Banda completa | Caída, respiración y transición a compás regular |
+| Minuto | Elementos principales | Detalles rítmicos / Técnicos | Letra / Observación |
+|---------|-----------------------|------------------------------|----------------------|
+| **3:48 – 3:55** | Guitarra con **palm mute** + **kick de batería** | Patrón **7/8** (riff base), percusión mínima. Se siente el pulso roto, con respiraciones entre frases. | *Instrumental (intro al clímax)* |
+| **3:55 – 4:03** | Entra **batería completa** | Groove pesado con fills cruzados. Polirritmia entre guitarra (7/8) y batería (4/4). | *Aumento progresivo de tensión.* |
+| **4:03 – 4:20** | Guitarra, bajo y voz entran | Compás base **7/8**, batería marca 4/4. Voz se monta entre pulsos, frase melódica pero contenida. | “*I can't take you, stare at yourself in the mirror...*” |
+| **4:20 – 4:38** | Cambio de patrón rítmico | Batería refuerza la síncopa, guitarra abre un poco más el ataque. | “*Spinning in my head it all comes around / What you thought dead it haunts you for years...*” |
+| **4:30 – 4:38** | Clímax vocal + batería acentuada | Cambios de métrica entre 7/8 y 5/8, marcando las sílabas de “*Fighting with your god...*” | “*Fighting with your god, it's all over now / Face what you did, you are going all down*” |
+| **4:38 – 4:45** | Guitarra sola + bajo (puente final) | Batería desaparece momentáneamente. Guitarra toca frase **melódica tipo solo**, posiblemente en 6/8 o 4/4 libre. | *Solo breve / transición a outro* |
 
 ---
 
-## 🎸 Cómo escuchar y analizar
+## 🥁 Detalle de los compases más inusuales
 
-1. **Activa un metrónomo en 4/4** mientras escuchas desde 3:40.  
-2. Notarás que el riff de guitarra *no encaja perfectamente*:  
-   → eso indica un patrón de **7 pulsos** sobre el pulso de 4/4.  
-3. Cada vez que el riff se repite, los acentos “caen” en lugares distintos.  
-4. La voz entra **entre pulsos**, no en el 1 del compás.  
-5. La tensión se resuelve al final (4:20–4:30), cuando vuelven a 4/4.
-
----
-
-## ✍️ Pasos para transcribir tú mismo
-
-1. **Ralentiza el audio** (usa Transcribe!, Audacity o YouTube a 0.75x).  
-2. **Marca los pulsos de referencia** (usa un metrónomo en 4/4).  
-3. **Cuenta las subdivisiones** de la guitarra hasta que se repite.  
-   - Si cuenta 7 → compás 7/8  
-   - Si cuenta 5 → compás 5/8  
-4. **Anota un boceto** (MuseScore, papel o tablatura).  
-5. **Agrega fills de batería** y entradas vocales con tiempos relativos.  
-6. **Verifica tocando** con metrónomo: si “choca”, estás oyendo el polirritmo correcto.  
-7. **Limpia el formato** y guarda tu chart o partitura en PDF.
+| Sección | Compás estimado | Sensación auditiva |
+|----------|------------------|--------------------|
+| Palm mute inicial | 7/8 | Tensión, ciclo incompleto |
+| Entrada vocal (“I can’t take you…”) | 7/8 | Frase vocal desplazada |
+| “Spinning in my head…” | Alterna 7/8 → 5/8 | Desfase emocional |
+| “Fighting with your god…” | 7/8 fuerte | Acentos agresivos, sincronía parcial con batería |
+| Outro / solo | 6/8 (o libre) | Resolución, respiro emocional |
 
 ---
 
-## 🧰 Herramientas útiles
-
-| Herramienta | Uso | Enlace |
-|--------------|-----|--------|
-| **MuseScore** | Escribir y exportar partituras (PDF, MusicXML) | [https://musescore.org](https://musescore.org) |
-| **Transcribe!** | Ralentizar audio sin alterar el tono | [https://www.seventhstring.com/xscribe/](https://www.seventhstring.com/xscribe/) |
-| **Audacity** | Ralentizar y aislar frecuencias | [https://www.audacityteam.org](https://www.audacityteam.org) |
-| **Songsterr / Ultimate Guitar** | Comparar tabs y acordes | [https://www.songsterr.com](https://www.songsterr.com) / [https://www.ultimate-guitar.com](https://www.ultimate-guitar.com) |
-| **The Drum Ninja** | Ver ejemplos de transcripción de batería | [https://thedrumninja.com](https://thedrumninja.com) |
+## 🎧 Cómo practicar o analizar esta parte
+1. **Pon el metrónomo en 4/4** y nota cómo los acentos de la guitarra se van “corriendo” cada ciclo.  
+2. **Cuenta 7 pulsos por frase** desde el 3:48: al repetir 8 veces, notarás que la frase vuelve a caer en tiempo con la batería.  
+3. **Aísla la parte 4:30–4:38** para practicar *timing* con la voz; cada palabra cae en subdivisiones distintas.  
+4. Luego, **escucha el 4:38–4:45** para entender cómo el grupo “libera” la tensión.
 
 ---
 
-## 📚 Fuentes y referencias
-- Análisis auditivo y comparativo con patrones rítmicos progresivos comunes (7/8, 5/8 sobre 4/4).  
-- Transcripciones de usuarios en MuseScore y Songsterr (consultadas como referencia).  
-- Ejemplos de polirritmia de Tool, Meshuggah y Soen (estructura similar).  
-- Escucha directa: *Poem – Fragments (HD)* en YouTube/Spotify.
+## 🧠 Análisis emocional
+Esta secuencia representa la **desintegración interna del narrador**:  
+- El *riff en 7/8* suena “roto”, como reflejo del conflicto interno.  
+- Cuando llega *“Fighting with your god”*, todo el caos converge en una sola descarga emocional.  
+- La guitarra final (4:38 – 4:45) es el eco de esa ruptura: un *mini-solo introspectivo* sin percusión, casi como aceptar el daño.
 
 ---
 
-## 🧠 Tip pro:
-> Si quieres practicar ese cambio, pon un metrónomo que marque **4/4** y toca un riff que se repita cada **7 notas**.  
-> Verás cómo cada repetición “se desplaza” un poco — eso mismo hace Poem aquí.
+## 🪶 Bonus: sugerencia para transcripción
+
+| Herramienta | Uso recomendado |
+|--------------|----------------|
+| **MuseScore** | Crear compases 7/8 y 5/8 alternos. Escribe los golpes de guitarra y bombo. |
+| **Transcribe!** | Ralentiza entre 4:00 y 4:45 sin cambiar el tono. |
+| **Guitar Pro / TuxGuitar** | Si deseas tabular el riff exacto. |
 
 ---
 
-## 🔧 ¿Quieres un chart visual?
-Puedo generarte una hoja en MuseScore o PDF con:
-- Riff principal (guitarra/bajo)
-- Marcación de compases (7/8 → 5/8 → 4/4)
-- Entradas vocales y fills de batería
+## 📍Resumen visual (Timeline rápido)
 
-Solo dime:
-1. ¿Prefieres **guitarra**, **batería**, o **ambos**?
-2. ¿Formato: PDF o archivo .mscz (MuseScore)?  
