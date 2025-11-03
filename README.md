@@ -1,19 +1,84 @@
-## 🧩 Resumen visual del diseño de la encuesta
+# 🎵 Poem – "Fragments" (Sección compleja: ~3:40–4:30)
 
-| **N°** | **Pregunta** | **Tipo de pregunta** | **Propósito principal** |
-|:--:|:--|:--|:--|
-| 1 | ¿Cuál es tu principal objetivo al usar una app nutricional? | Opción múltiple | Identificar las metas más comunes de los usuarios (bajar, subir o mantener peso, mejorar salud, etc.). |
-| 2 | ¿Qué tipo de funciones te gustaría que tenga la app? | Opción múltiple | Conocer las funcionalidades más valoradas (registro, planes, recetas, recordatorios). |
-| 3 | ¿Qué te motiva más a seguir una alimentación saludable? | Opción múltiple | Analizar los factores motivacionales (energía, estética, salud). |
-| 4 | ¿Tienes alguna restricción o preferencia alimenticia? | Casilla de verificación | Detectar dietas especiales o restricciones (keto, vegana, sin gluten, etc.). |
-| 5 | ¿Te gustaría que la app te ayudara a planificar tus comidas o solo a registrar lo que comes? | Opción múltiple | Determinar si los usuarios prefieren planificación activa o solo registro pasivo. |
-| 6 | ¿Qué te gustaría que incluyera una app nutricional? | Casilla de verificación | Identificar las herramientas complementarias deseadas (seguimiento, recetas, recordatorios). |
-| 7 | ¿Te gustaría que la app tuviera un escáner de códigos de barras? | Opción múltiple | Evaluar el interés por la automatización en el registro de alimentos. |
-| 8 | ¿Qué tan importante sería que la app mostrara tu progreso con gráficos o estadísticas? | Escala de importancia | Conocer el valor que los usuarios dan al seguimiento visual del progreso. |
-| 9 | ¿Preferirías una app que dé consejos automáticos o que ajustes todo manualmente? | Opción múltiple | Identificar preferencias entre autonomía y automatización. |
-| 10 | ¿Te gustaría que la app se conectara con otras herramientas (relojes, apps de ejercicio)? | Opción múltiple | Evaluar el interés por la integración con ecosistemas de salud y fitness. |
-| 11 | ¿Cuántos años tienes? | Opción múltiple | Clasificar el perfil demográfico y rango etario de los usuarios. |
-| 12 | ¿Qué tipo de comidas prefieres en tu dieta diaria? | Opción múltiple | Detectar hábitos alimenticios predominantes (caseras, rápidas, bajas en grasa, etc.). |
-| 13 | ¿Con qué frecuencia sueles cuidar lo que comes o revisar información nutricional? | Opción múltiple | Analizar el nivel de compromiso y constancia de los usuarios. |
-| 14 | ¿Te gustaría que la app tuviera una comunidad o chat para compartir consejos? | Opción múltiple | Medir el interés en funciones sociales o de comunidad dentro de la app. |
-| 15 | ¿Qué tipo de contenido educativo te gustaría ver en la app? | Opción múltiple | Identificar la demanda de información formativa sobre nutrición y hábitos saludables. |
+## 🧩 Descripción general
+Esta sección (~3:40–4:30) es donde la canción entra en una textura **polirrítmica**:
+- La **guitarra** toca frases en **7/8** (y breves transiciones en 5/8).
+- La **batería** mantiene un **pulso base en 4/4**, creando tensión rítmica.
+- El **bajo** sigue la guitarra, con algunas **anticipaciones** (“pushes”).
+- La **voz** entra *off-beat* (“Fighting with your god…”) y rompe la simetría.
+
+---
+
+## 🕐 Línea de tiempo simplificada
+
+| Tiempo (aprox) | Compás / Patrón | Instrumento principal | Detalles |
+|-----------------|-----------------|------------------------|-----------|
+| 3:40–3:48 | 7/8 repetido | Guitarra (riff 1) | Palm mutes y frase rítmica desplazada respecto al 4/4 de la batería |
+| 3:48–3:56 | 7/8 → 5/8 | Guitarra + bajo | Frase corta antes del siguiente ciclo |
+| 3:56–4:04 | 7/8 | Batería | Acentos cruzados; hi-hat marca subdivisiones en 4/4 |
+| 4:04–4:12 | 7/8 | Voz entra (“Fighting with your god…”) | Entrada *off-beat*, entre el 2° y 3° pulso del compás |
+| 4:12–4:20 | 7/8 → 4/4 | Bajo y batería se alinean | Cae en 4/4 justo antes de la resolución |
+| 4:20–4:30 | 4/4 → pausa | Banda completa | Caída, respiración y transición a compás regular |
+
+---
+
+## 🎸 Cómo escuchar y analizar
+
+1. **Activa un metrónomo en 4/4** mientras escuchas desde 3:40.  
+2. Notarás que el riff de guitarra *no encaja perfectamente*:  
+   → eso indica un patrón de **7 pulsos** sobre el pulso de 4/4.  
+3. Cada vez que el riff se repite, los acentos “caen” en lugares distintos.  
+4. La voz entra **entre pulsos**, no en el 1 del compás.  
+5. La tensión se resuelve al final (4:20–4:30), cuando vuelven a 4/4.
+
+---
+
+## ✍️ Pasos para transcribir tú mismo
+
+1. **Ralentiza el audio** (usa Transcribe!, Audacity o YouTube a 0.75x).  
+2. **Marca los pulsos de referencia** (usa un metrónomo en 4/4).  
+3. **Cuenta las subdivisiones** de la guitarra hasta que se repite.  
+   - Si cuenta 7 → compás 7/8  
+   - Si cuenta 5 → compás 5/8  
+4. **Anota un boceto** (MuseScore, papel o tablatura).  
+5. **Agrega fills de batería** y entradas vocales con tiempos relativos.  
+6. **Verifica tocando** con metrónomo: si “choca”, estás oyendo el polirritmo correcto.  
+7. **Limpia el formato** y guarda tu chart o partitura en PDF.
+
+---
+
+## 🧰 Herramientas útiles
+
+| Herramienta | Uso | Enlace |
+|--------------|-----|--------|
+| **MuseScore** | Escribir y exportar partituras (PDF, MusicXML) | [https://musescore.org](https://musescore.org) |
+| **Transcribe!** | Ralentizar audio sin alterar el tono | [https://www.seventhstring.com/xscribe/](https://www.seventhstring.com/xscribe/) |
+| **Audacity** | Ralentizar y aislar frecuencias | [https://www.audacityteam.org](https://www.audacityteam.org) |
+| **Songsterr / Ultimate Guitar** | Comparar tabs y acordes | [https://www.songsterr.com](https://www.songsterr.com) / [https://www.ultimate-guitar.com](https://www.ultimate-guitar.com) |
+| **The Drum Ninja** | Ver ejemplos de transcripción de batería | [https://thedrumninja.com](https://thedrumninja.com) |
+
+---
+
+## 📚 Fuentes y referencias
+- Análisis auditivo y comparativo con patrones rítmicos progresivos comunes (7/8, 5/8 sobre 4/4).  
+- Transcripciones de usuarios en MuseScore y Songsterr (consultadas como referencia).  
+- Ejemplos de polirritmia de Tool, Meshuggah y Soen (estructura similar).  
+- Escucha directa: *Poem – Fragments (HD)* en YouTube/Spotify.
+
+---
+
+## 🧠 Tip pro:
+> Si quieres practicar ese cambio, pon un metrónomo que marque **4/4** y toca un riff que se repita cada **7 notas**.  
+> Verás cómo cada repetición “se desplaza” un poco — eso mismo hace Poem aquí.
+
+---
+
+## 🔧 ¿Quieres un chart visual?
+Puedo generarte una hoja en MuseScore o PDF con:
+- Riff principal (guitarra/bajo)
+- Marcación de compases (7/8 → 5/8 → 4/4)
+- Entradas vocales y fills de batería
+
+Solo dime:
+1. ¿Prefieres **guitarra**, **batería**, o **ambos**?
+2. ¿Formato: PDF o archivo .mscz (MuseScore)?  
